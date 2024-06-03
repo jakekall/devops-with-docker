@@ -1,0 +1,9 @@
+Script started on 2024-06-03 19:17:59+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;jakekall@lx9-fuxi004: ~/Homework/devops-with-docker/part1/2[01;32mjakekall@lx9-fuxi004[00m:[01;34m~/Homework/devops-with-docker/part1/2[00m$ docker os [K[K[Kps -a
+[?2004lCONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+[?2004h]0;jakekall@lx9-fuxi004: ~/Homework/devops-with-docker/part1/2[01;32mjakekall@lx9-fuxi004[00m:[01;34m~/Homework/devops-with-docker/part1/2[00m$ docker image ls
+[?2004lREPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+[?2004h]0;jakekall@lx9-fuxi004: ~/Homework/devops-with-docker/part1/2[01;32mjakekall@lx9-fuxi004[00m:[01;34m~/Homework/devops-with-docker/part1/2[00m$ exit
+[?2004lexit
+
+Script done on 2024-06-03 19:18:22+03:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,10 @@
+Script started on 2024-06-03 19:11:13+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;jakekall@lx9-fuxi004: ~/Homework/devops-with-docker/part1/1[01;32mjakekall@lx9-fuxi004[00m:[01;34m~/Homework/devops-with-docker/part1/1[00m$ di[Kocker os [K[K[Kps .[K-a
+[?2004lCONTAINER ID   IMAGE     COMMAND                  CREATED         STATUS                      PORTS     NAMES
+986d73d9096f   nginx     "/docker-entrypoint.…"   2 minutes ago   Exited (0) 41 seconds ago             recursing_yonath
+ad6756f2b0f8   nginx     "/docker-entrypoint.…"   2 minutes ago   Up 2 minutes                80/tcp    fervent_allen
+8b14d62cd08b   nginx     "/docker-entrypoint.…"   2 minutes ago   Exited (0) 36 seconds ago             gallant_einstein
+[?2004h]0;jakekall@lx9-fuxi004: ~/Homework/devops-with-docker/part1/1[01;32mjakekall@lx9-fuxi004[00m:[01;34m~/Homework/devops-with-docker/part1/1[00m$ exit[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2024-06-03 19:12:22+03:00 [COMMAND_EXIT_CODE="0"]
