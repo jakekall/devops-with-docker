@@ -1,0 +1,2 @@
+docker run -d --rm -it --name secret devopsdockeruh/simple-web-service:ubuntu
+docker exec secret tail -f ./text.log

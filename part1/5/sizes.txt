@@ -1,0 +1,2 @@
+Ubuntu is 83MB and Alpine is 15.7MB
+Functionality is the same

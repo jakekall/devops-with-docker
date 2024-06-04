@@ -1,0 +1,2 @@
+password: basics
+seceret message: "This is the secret message"
