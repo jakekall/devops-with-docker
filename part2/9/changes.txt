@@ -1,0 +1,1 @@
+In the Dockerfile for the frontend I changed the REACT_APP_BACKEND env to http://localhost/api. Then I build the image again as frontend-project:v3 and changed the docker-compose.yml to use the new version of the image. (I also removed the unnecessary volumes statement that was based on docker docs about binds)
