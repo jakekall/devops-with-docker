@@ -1,0 +1,9 @@
+backend before: 1.07GB
+frontend before: 1.27GB
+
+backend after: 1.07GB
+frontend after: 1.28GB
+
+I don't know why but joining the RUN commands for frontend actually increased the size. I both tried a version where dependencies are installed before copying all files (COPY package* ./) with two seperate RUN commands and also a version where eveything is copied at once and there is only one RUN command but both versions were 1.28GB while the original (rootless) version was 1.27GB.
+
+For the useless parts, my images are based on the node and golang images so I didn't install any additional dependencies.
