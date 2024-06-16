@@ -1,0 +1,8 @@
+I used the Dockerfile I made for the Java Spring project in exercise 1.11
+
+Original size: 435MB
+Size after changes: 134MB
+
+I changed the build to multi-stage where the first stage has the full jdk while the second only has jre to run the app. Both stages use alpine.
+Only the jar is copied over and source files are ignored.
+I added an user "appuser" so that the jar is not executed as root.
