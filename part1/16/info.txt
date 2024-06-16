@@ -1,0 +1,4 @@
+Link to running app: https://spring-example-project-8vhv.onrender.com/
+I used the spring-example-project from course material and deployed it to Render.
+I used the the free web service.
+Render detected the Dockerfile and the port the project uses automatically so there wan't need for any manual configuration.
